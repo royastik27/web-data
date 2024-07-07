@@ -1,0 +1,40 @@
+[
+    {
+        "file_name": "dbms_intro",
+        "title": "Introduction to DBMS",
+        "tags": [
+            "intro",
+            "dbms",
+            "database",
+            "computerscience"
+        ],
+        "about": "Introduction\nEntity relationship set\nRelational model",
+        "last_updated": 1720357091513,
+        "published": true
+    },
+    {
+        "file_name": "os_intro",
+        "title": "Introduction to Operation System",
+        "tags": [
+            "intro",
+            "os",
+            "computerscience"
+        ],
+        "about": "Introduction\nScheduling algorithms\nDeadlock",
+        "last_updated": 1720357091513,
+        "published": true
+    },
+    {
+        "file_name": "apply_as_writer",
+        "title": "Apply as writer at ra27 Web!",
+        "tags": [
+            "apply",
+            "writer",
+            "contribute",
+            "ra27web"
+        ],
+        "about": "Steps to follow for applying as a writer at ra27 Web",
+        "last_updated": 1720357091513,
+        "published": true
+    }
+]
