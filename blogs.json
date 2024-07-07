@@ -9,7 +9,7 @@
             "computerscience"
         ],
         "about": "Introduction\nEntity relationship set\nRelational model",
-        "last_updated": 1720357091513,
+        "last_modified": 1720357091513,
         "published": true
     },
     {
@@ -21,7 +21,7 @@
             "computerscience"
         ],
         "about": "Introduction\nScheduling algorithms\nDeadlock",
-        "last_updated": 1720357091513,
+        "last_modified": 1720357091513,
         "published": true
     },
     {
@@ -34,7 +34,7 @@
             "ra27web"
         ],
         "about": "Steps to follow for applying as a writer at ra27 Web",
-        "last_updated": 1720357091513,
+        "last_modified": 1720357091513,
         "published": true
     }
 ]
