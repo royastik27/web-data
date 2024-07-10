@@ -20,7 +20,7 @@ An Operating system is similar to a government. A government performs no useful 
 **User view:** The user view of the computer varies according to the interface being used. For example:
 
 (i) Most computer users use personal computers. In this case, the operating system is designed mostly for the ease of use, with some attention paid to performance, and none paid to resource utilization (how various hardware and sofware resources are shared).  
-(ii) In another case, a user sits at a terminal connected to a mainframe or a minicomputer. Other users are accessing the same computer through other terminals. These users share resources and may exchange information. The operating system in such cases `is designed to maximize resource utilization`.
+(ii) In another case, a user sits at a terminal connected to a mainframe or a minicomputer. Other users are accessing the same computer through other terminals. These users share resources and may exchange information. The operating system in such cases ~~is designed to maximize resource utilization~~.
 
 
 > A minicomputer is larger and more powerful than a personal computer. Minicomputers are used by small businesses or departments within a company for tasks that require more computing power and can support multiple users simultaneously. Personal computers (PCs) are designed for individual use, typically for tasks like web browsing, word processing, and gaming. Minicomputers are less common today as PCs have become more powerful.  
