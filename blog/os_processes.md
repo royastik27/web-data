@@ -16,7 +16,7 @@ time.
 **(i)** Stack section: temporary data storage when invoking functions (such as
 function parameters, return addresses, and local variables).
 
-<img src="process_layout_memory.jpg" />
+<img src="process_layout_memory.JPG" />
 
 
 ## Process State
@@ -30,7 +30,7 @@ The state of a process refers to the current acitivity of the process. As a proc
 **(i) Waiting:** The process is waiting for some event to occur (such as an I/O completion or reception of a signal).  
 **(ii) Terminated:** The process has finished execution.
 
-<img src="process_state.jpg" />
+<img src="process_state.JPG" />
 
 **>** Only one process can be running on any processor core at any instant. Many processes may be ready and waiting.
 
