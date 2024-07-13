@@ -25,6 +25,19 @@
         "published": true
     },
     {
+        "file_name": "os_processes",
+        "title": "Processes",
+        "tags": [
+            "os",
+            "process",
+            "processes",
+            "computerscience"
+        ],
+        "about": "Process, Process State and so on",
+        "last_modified": 1720875841654,
+        "published": true
+    },
+    {
         "file_name": "apply_as_writer",
         "title": "Apply as writer at ra27 Web!",
         "tags": [
